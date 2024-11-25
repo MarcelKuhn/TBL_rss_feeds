@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>Your Video RSS Feed Title</title>
+        <link>https://travelbucketlist.xyz</link>
+        <description>Generated from Google Sheets - Videos</description>
+        <language>en-us</language>
+    <item>
+      <title><![CDATA[10 Hidden Gems You Must Visit Before You Die]]></title>
+      <link></link> <!-- URL zur Seite mit dem Video -->
+      <guid isPermaLink="false">e797df5b-ebce-e511-528b-edd7ebb9e038</guid>
+      <pubDate>Thu, 25 Apr 2024 12:30:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Embark on a journey to uncover ten breathtaking hidden gems around the world. From the mesmerizing Marble Caves in Chile to the enchanting Fairy Pools in Scotland, this video showcases must-visit destinations that will inspire your next adventure.
+]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/achnjfsi9y40q4w7671d8/10-Hidden-Gems-You-Must-Visit-Before-You-Die.mp4?rlkey=kdjfjxcag1uc0uafro0kbz1oq&st=61rw3yi1&dl=0" medium="video">
+          <media:title><![CDATA[10 Hidden Gems You Must Visit Before You Die]]></media:title>
+          <media:description><![CDATA[Embark on a journey to uncover ten breathtaking hidden gems around the world. From the mesmerizing Marble Caves in Chile to the enchanting Fairy Pools in Scotland, this video showcases must-visit destinations that will inspire your next adventure.
+]]></media:description>
+      </media:content>
+    </item>
+    </channel>
+</rss>
