@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>Your Video RSS Feed Title - my</title>
+        <link>https://travelbucketlist.xyz</link>
+        <description>Generated from Google Sheets - Videos (my)</description>
+        <language>en-us</language>
+    <item>
+      <title><![CDATA[Top 10 Global Destinations for Senior Travelers]]></title>
+      <link>https://www.dropbox.com/scl/fi/8fdn0qg0v8is25eidjlz8/Top-10-Global-Destinations-for-Senior-Travelers.mp4?rlkey=oysyi1jfsvsu9lfh5dgqu6q5z&amp;st=rwf8otdh&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">958fe8ed-f7f4-f7c3-2122-012048458499</guid>
+      <pubDate>Thu, 28 Nov 2024 19:30:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Explore some of the most enchanting and accessible locations around the world, ideal for those seeking comfort and adventure in their golden years. From peaceful coastal retreats to vibrant cultural centers, we showcase destinations that cater to every interest and need. Whether you're planning your next trip or dreaming of future adventures, we guide you to experiences that promise unforgettable memories and seamless travel.]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/8fdn0qg0v8is25eidjlz8/Top-10-Global-Destinations-for-Senior-Travelers.mp4?rlkey=oysyi1jfsvsu9lfh5dgqu6q5z&amp;st=rwf8otdh&amp;dl=1" medium="video">
+          <media:title><![CDATA[Top 10 Global Destinations for Senior Travelers]]></media:title>
+          <media:description><![CDATA[Explore some of the most enchanting and accessible locations around the world, ideal for those seeking comfort and adventure in their golden years. From peaceful coastal retreats to vibrant cultural centers, we showcase destinations that cater to every interest and need. Whether you're planning your next trip or dreaming of future adventures, we guide you to experiences that promise unforgettable memories and seamless travel.]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/ga2b327781e880fa913c2b0aec7714b1b78b58970782673553d401afcdb055ab9b39e2bd930d2891ebb1d5cc572af62868b9c64b62d03704ec91ebf3dad73c836_1280.jpg" />
+    </item>
+    </channel>
+</rss>
