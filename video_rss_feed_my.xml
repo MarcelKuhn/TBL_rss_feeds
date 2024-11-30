@@ -36,5 +36,17 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/g7b250a07a50d8f2d5346c654386cc887c9b0f288d362bf4cefbee26f890604da51744b16c3e7011798dbcf8554e4261885ee00718b3302cf7d994a879442772e_1280.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Top Travel Destinations before you Die]]></title>
+      <link>https://www.dropbox.com/scl/fi/n0b9lutvqrti8jh1img2y/Top-Travel-Destinations-before-you-Die.mp4?rlkey=zqn7nsfcpmn0yxqrbiakrz4il&amp;st=u1ggo7km&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">24bc5ee1-14a1-8437-94a0-2a4d75d51b7b</guid>
+      <pubDate>Sat, 30 Nov 2024 13:40:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Explore the world's most enchanting destinations before you Die, from Thailand's serene Phi Phi Islands to Peru's ancient Machu Picchu. Discover Greece's picturesque Santorini and the USA's breathtaking Grand Canyon. Each locale offers unique experiences, whether you're seeking adventure, relaxation, or a journey through history. #TravelGoals #BucketListDestinations #Wanderlust #ExploreTheWorld #BeforeYouDie]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/n0b9lutvqrti8jh1img2y/Top-Travel-Destinations-before-you-Die.mp4?rlkey=zqn7nsfcpmn0yxqrbiakrz4il&amp;st=u1ggo7km&amp;dl=1" medium="video">
+          <media:title><![CDATA[Top Travel Destinations before you Die]]></media:title>
+          <media:description><![CDATA[Explore the world's most enchanting destinations before you Die, from Thailand's serene Phi Phi Islands to Peru's ancient Machu Picchu. Discover Greece's picturesque Santorini and the USA's breathtaking Grand Canyon. Each locale offers unique experiences, whether you're seeking adventure, relaxation, or a journey through history. #TravelGoals #BucketListDestinations #Wanderlust #ExploreTheWorld #BeforeYouDie]]></media:description>
+      </media:content>
+    </item>
     </channel>
 </rss>
