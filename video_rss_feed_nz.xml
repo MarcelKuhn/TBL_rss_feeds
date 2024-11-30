@@ -48,5 +48,17 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA[Explore the world's most enchanting destinations before you Die, from Thailand's serene Phi Phi Islands to Peru's ancient Machu Picchu. Discover Greece's picturesque Santorini and the USA's breathtaking Grand Canyon. Each locale offers unique experiences, whether you're seeking adventure, relaxation, or a journey through history. #TravelGoals #BucketListDestinations #Wanderlust #ExploreTheWorld #BeforeYouDie]]></media:description>
       </media:content>
     </item>
+    <item>
+      <title><![CDATA[12 Countries with the Most Dangerous Wildlife]]></title>
+      <link>https://www.dropbox.com/scl/fi/7v329yrdw023z9yvwp0pv/12-Countries-with-the-Most-Dangerous-Wildlife.mp4?rlkey=q4ns4cqmhjv5zrgmvb4k3u43d&amp;st=2gn5w2b6&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">c904864c-5687-662f-ee8e-60c11903c400</guid>
+      <pubDate>Sun, 01 Dec 2024 14:02:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/7v329yrdw023z9yvwp0pv/12-Countries-with-the-Most-Dangerous-Wildlife.mp4?rlkey=q4ns4cqmhjv5zrgmvb4k3u43d&amp;st=2gn5w2b6&amp;dl=1" medium="video">
+          <media:title><![CDATA[12 Countries with the Most Dangerous Wildlife]]></media:title>
+          <media:description><![CDATA[]]></media:description>
+      </media:content>
+    </item>
     </channel>
 </rss>
