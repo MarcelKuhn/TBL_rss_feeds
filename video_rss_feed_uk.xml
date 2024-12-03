@@ -207,5 +207,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/pexels-photo-29513362.jpegautocompresscstinysrgbh650w940" />
     </item>
+    <item>
+      <title><![CDATA[Discover the Worlds Most Charming Christmas Towns This December]]></title>
+      <link>https://www.dropbox.com/scl/fi/h4nbogq2qwcfufcxv4woa/video-018-Discover-the-Worlds-Most-Charming-Christmas-Towns-This-December.mp4?rlkey=opjo4ljgcy657w0mxcd6gfec0&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">935bd9b8-733b-adcb-1c34-5100057ce9fd</guid>
+      <pubDate>Fri, 06 Dec 2024 12:35:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[tbd]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/h4nbogq2qwcfufcxv4woa/video-018-Discover-the-Worlds-Most-Charming-Christmas-Towns-This-December.mp4?rlkey=opjo4ljgcy657w0mxcd6gfec0&amp;dl=1" medium="video">
+          <media:title><![CDATA[Discover the Worlds Most Charming Christmas Towns This December]]></media:title>
+          <media:description><![CDATA[tbd]]></media:description>
+      </media:content>
+      <media:thumbnail url="tbd" />
+    </item>
     </channel>
 </rss>
