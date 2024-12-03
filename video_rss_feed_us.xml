@@ -166,5 +166,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/30708834911_fb9e0cb29c_b.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Top 10 Pets That Thrive in the Big Apple]]></title>
+      <link>https://www.dropbox.com/scl/fi/k0x634hkj6vdilsd57pz4/video-015-Top-10-Pets-That-Thrive-in-the-Big-Apple.mp4?rlkey=hyan36640ef2lmplxwe3g65rd&amp;st=tgi310x2&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">bfcb0567-9eab-2205-875c-7b8a2f62ce5a</guid>
+      <pubDate>Wed, 04 Dec 2024 13:35:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[New York City is often described as a concrete jungle, bustling with energy from sunrise to sunset. Yet amidst the frenzy, residents find comfort in the form of furry, feathery, or even finned companions. These pets, prized by city dwellers, offer love and companionship, perfectly fitting into the unique fabric of urban life. Here's a look at the different animals that have ingrained themselves into the hearts of New Yorkers.]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/k0x634hkj6vdilsd57pz4/video-015-Top-10-Pets-That-Thrive-in-the-Big-Apple.mp4?rlkey=hyan36640ef2lmplxwe3g65rd&amp;st=tgi310x2&amp;dl=1" medium="video">
+          <media:title><![CDATA[Top 10 Pets That Thrive in the Big Apple]]></media:title>
+          <media:description><![CDATA[New York City is often described as a concrete jungle, bustling with energy from sunrise to sunset. Yet amidst the frenzy, residents find comfort in the form of furry, feathery, or even finned companions. These pets, prized by city dwellers, offer love and companionship, perfectly fitting into the unique fabric of urban life. Here's a look at the different animals that have ingrained themselves into the hearts of New Yorkers.]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/g8626840598162b43081a91d294bc62e76a6e14ce21e83f9143d5e15ab17c2f37d2d1e5b40322c12a837a454583081e0aa767f81e0ad348adbaf75392aef15da0_1280.jpg" />
+    </item>
     </channel>
 </rss>
