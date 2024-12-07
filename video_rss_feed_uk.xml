@@ -234,19 +234,6 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/gce5a231638e64966d9e69af92523f093242cae68296c135c42b503304294d0b9280b80088fc0b6c4143e8e0268c8324c9d8dd4ca373fbb53d6d0f2e2176c74d6_1280.jpg" />
     </item>
     <item>
-      <title><![CDATA[10 Travel Destinations for Pensioners]]></title>
-      <link>https://www.dropbox.com/scl/fi/7xehzs3vn7uuolb37zpxw/video-020-10-Travel-Destinations-for-Pensioners.mp4?rlkey=rum4qg97l6qzhvp5anergwoxk&amp;dl=1</link> <!-- Video URL als Link -->
-      <guid isPermaLink="false">695e6ca0-3166-901b-a071-cb2cdd9918ee</guid>
-      <pubDate>Fri, 06 Dec 2024 16:55:00 GMT</pubDate>
-      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
-      <description><![CDATA[tbd]]></description>
-      <media:content url="https://www.dropbox.com/scl/fi/7xehzs3vn7uuolb37zpxw/video-020-10-Travel-Destinations-for-Pensioners.mp4?rlkey=rum4qg97l6qzhvp5anergwoxk&amp;dl=1" medium="video">
-          <media:title><![CDATA[10 Travel Destinations for Pensioners]]></media:title>
-          <media:description><![CDATA[tbd]]></media:description>
-      </media:content>
-      <media:thumbnail url="tbd" />
-    </item>
-    <item>
       <title><![CDATA[Top 10 Countries with the Highest Mortality Rates]]></title>
       <link>https://www.dropbox.com/scl/fi/x9cs88wrcuuailvhr179l/video-021-Top-10-Countries-with-the-Highest-Mortality-Rates-A-Global-Overview.mp4?rlkey=gldpktn5fwnqf9f9w4m2lnp25&amp;dl=1</link> <!-- Video URL als Link -->
       <guid isPermaLink="false">aa8f746f-af25-3dc1-654a-d1dc8b188943</guid>
@@ -258,6 +245,19 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA[Understanding global mortality rates offers crucial insights into health dynamics and socioeconomic conditions worldwide. By examining the top 10 countries with the highest mortality rates, we can better grasp the challenges they face and the factors contributing to these high numbers. Mortality rate, also referred to as death rate, measures the number of deaths per 1,000 individuals annually. While numerous countries struggle with high mortality, stark contrasts exist due to differences in healthcare infrastructure, lifestyle, and economic stability.]]></media:description>
       </media:content>
       <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/g866bfe7dd853b287f3e6cd3cd290e359ec4647e92a768e5acce7be56118bc2a01d5f1bdb5ba9cc0daf1bbd49e3d12b91acd2509db88e84c5dcc7cc323b2c3b4c_1280.jpg" />
+    </item>
+    <item>
+      <title><![CDATA[10 Travel Destinations for Pensioners]]></title>
+      <link>https://www.dropbox.com/scl/fi/7xehzs3vn7uuolb37zpxw/video-020-10-Travel-Destinations-for-Pensioners.mp4?rlkey=rum4qg97l6qzhvp5anergwoxk&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">8886ffb6-fe50-26f9-2c97-343bd4204239</guid>
+      <pubDate>Sat, 07 Dec 2024 16:55:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Traveling is a joy at any age, but for pensioners, it's an opportunity to explore life at a relaxed pace and indulge in newfound interests. This journey unveils ten sensational destinations catering to the adventurous spirit in every senior. Whether it's seeking the embrace of nature or diving into cultural wonders, these locations have something for every taste.]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/7xehzs3vn7uuolb37zpxw/video-020-10-Travel-Destinations-for-Pensioners.mp4?rlkey=rum4qg97l6qzhvp5anergwoxk&amp;dl=1" medium="video">
+          <media:title><![CDATA[10 Travel Destinations for Pensioners]]></media:title>
+          <media:description><![CDATA[Traveling is a joy at any age, but for pensioners, it's an opportunity to explore life at a relaxed pace and indulge in newfound interests. This journey unveils ten sensational destinations catering to the adventurous spirit in every senior. Whether it's seeking the embrace of nature or diving into cultural wonders, these locations have something for every taste.]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2024/11/gbe036f4fb0f0537c407f08566026ec24fd32b4bc569b1d9c866729498a50d2b22f794cd831b822322ea8910d6b3d59ada229c2205edb0d5426e5179b6f4dca27_1280.jpg" />
     </item>
     </channel>
 </rss>
