@@ -285,5 +285,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="tbd" />
     </item>
+    <item>
+      <title><![CDATA[Top 8 US Cities Where Mature Men Find Love and Adventure]]></title>
+      <link>https://www.dropbox.com/scl/fi/ckovm5dcnpygaqqofhk8u/video-024-Top-8-US-Cities-Where-Mature-Men-Find-Love-and-Adventure.mp4?rlkey=4ds01u9sh1syjs6q4q1smqegz&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">82e04833-db40-67fd-6bd8-8635f4d96777</guid>
+      <pubDate>Tue, 10 Dec 2024 17:30:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[tbd]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/ckovm5dcnpygaqqofhk8u/video-024-Top-8-US-Cities-Where-Mature-Men-Find-Love-and-Adventure.mp4?rlkey=4ds01u9sh1syjs6q4q1smqegz&amp;dl=1" medium="video">
+          <media:title><![CDATA[Top 8 US Cities Where Mature Men Find Love and Adventure]]></media:title>
+          <media:description><![CDATA[tbd]]></media:description>
+      </media:content>
+      <media:thumbnail url="tbd" />
+    </item>
     </channel>
 </rss>
