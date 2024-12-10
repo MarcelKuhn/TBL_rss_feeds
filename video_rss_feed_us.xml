@@ -385,5 +385,17 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA[]]></media:description>
       </media:content>
     </item>
+    <item>
+      <title><![CDATA[10 Best Things About Madeira]]></title>
+      <link>https://www.dropbox.com/scl/fi/1li0t2yaqz4hmzxn05p9c/video-032-10-Best-Things-About-Madeirainkllogo.mp4?rlkey=rj0izczjyg2vbv4b8ttu30rp1&amp;st=zqo2pptn&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">0127a72c-0984-3eb4-f6e9-13d5c6a457a6</guid>
+      <pubDate>Thu, 12 Dec 2024 13:35:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/1li0t2yaqz4hmzxn05p9c/video-032-10-Best-Things-About-Madeirainkllogo.mp4?rlkey=rj0izczjyg2vbv4b8ttu30rp1&amp;st=zqo2pptn&amp;dl=1" medium="video">
+          <media:title><![CDATA[10 Best Things About Madeira]]></media:title>
+          <media:description><![CDATA[]]></media:description>
+      </media:content>
+    </item>
     </channel>
 </rss>
