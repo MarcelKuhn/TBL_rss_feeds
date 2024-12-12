@@ -543,5 +543,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA[🎥 Calling all Johnny Depp fans! Travel to 10 destinations inspired by his iconic roles and personal adventures. From cinematic sets to real-life stories, which spot is your favorite? 🌍✨ #JohnnyDeppFans #TravelInspired #IconicDestinations]]></media:description>
       </media:content>
     </item>
+    <item>
+      <title><![CDATA[10 Magical Christmas Destinations You Can’t Miss This Year]]></title>
+      <link>https://www.dropbox.com/scl/fi/k14599yv5115vgcibnlsu/video-043-10-Magical-Christmas-Destinations-You-Can-t-Miss-This-Year.mp4?rlkey=4yb01vuze7rccnqimeattatc6&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">91956e02-d524-add9-e36a-86930539e44a</guid>
+      <pubDate>Sun, 15 Dec 2024 15:31:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[tbd]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/k14599yv5115vgcibnlsu/video-043-10-Magical-Christmas-Destinations-You-Can-t-Miss-This-Year.mp4?rlkey=4yb01vuze7rccnqimeattatc6&amp;dl=1" medium="video">
+          <media:title><![CDATA[10 Magical Christmas Destinations You Can’t Miss This Year]]></media:title>
+          <media:description><![CDATA[tbd]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/78ed091f-9ef5-4784-91a5-6105eb98c37d/IMAGE/thumbnails/a35fb019-1eb2-4a3e-9138-b6d93d567c36_video-043-10 Magical Christmas Destinations You Can’t Miss This Year.jpg" />
+    </item>
     </channel>
 </rss>
