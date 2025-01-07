@@ -1960,5 +1960,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/666db44b-1d71-4c77-90ce-6fab55eff14d/IMAGE/thumbnails/f60464b4-3f38-445b-87d9-38dbb1738821_video-152-Top%2010%20Destinations%20for%20Shark%20Lovers.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Top 12 Destinations for Dolphin Lovers]]></title>
+      <link>https://www.dropbox.com/scl/fi/mgncji4jkqrvloc94yrh5/video-153-Top-12-Destinations-for-Dolphin-Lovers.mp4?rlkey=yjb87xsdmwg7lpi9h5rcx7bud&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">adc31378-17e3-b6ce-7433-484635baf381</guid>
+      <pubDate>Fri, 10 Jan 2025 14:36:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Dive into a world of wonder with our top 12 destinations perfect for dolphin enthusiasts! 🐬✨ Explore breathtaking locations where you can meet these playful creatures up close. Pack your bags and get ready for an adventure of a lifetime! #DolphinAdventures #TravelGoals #OceanLove]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/mgncji4jkqrvloc94yrh5/video-153-Top-12-Destinations-for-Dolphin-Lovers.mp4?rlkey=yjb87xsdmwg7lpi9h5rcx7bud&amp;dl=1" medium="video">
+          <media:title><![CDATA[Top 12 Destinations for Dolphin Lovers]]></media:title>
+          <media:description><![CDATA[Dive into a world of wonder with our top 12 destinations perfect for dolphin enthusiasts! 🐬✨ Explore breathtaking locations where you can meet these playful creatures up close. Pack your bags and get ready for an adventure of a lifetime! #DolphinAdventures #TravelGoals #OceanLove]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/482fc83e-dffa-4ea6-9e7b-5034b97e3059/IMAGE/thumbnails/6857abe4-312e-41be-9c2e-7f5c20a2648b_video-153-Top%2012%20Destinations%20for%20Dolphin%20Lovers.jpg" />
+    </item>
     </channel>
 </rss>
