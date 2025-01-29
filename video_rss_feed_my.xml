@@ -75,5 +75,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2025/01/cropped_blob-1303" />
     </item>
+    <item>
+      <title><![CDATA[Hiking Solo: Top U.S. Trails for Adventurers]]></title>
+      <link>https://www.dropbox.com/scl/fi/ezdrmjunrzsauki03xmsg/video-254-Hiking-Solo-Top-U.S.-Trails-for-Adventurers.mp4?rlkey=83amosa2z5jf6l1n0kejot7k7&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">53e285b9-8072-caa5-9630-1bfc8de2d389</guid>
+      <pubDate>Wed, 29 Jan 2025 12:31:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Ready to hit the trails on your own? 🌲 Explore the beauty of nature and challenge yourself with the top hiking paths across the U.S.! Don't forget, adventure awaits at every turn! #HikingSolo #NatureLovers #AdventureAwaits 🥾]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/ezdrmjunrzsauki03xmsg/video-254-Hiking-Solo-Top-U.S.-Trails-for-Adventurers.mp4?rlkey=83amosa2z5jf6l1n0kejot7k7&amp;dl=1" medium="video">
+          <media:title><![CDATA[Hiking Solo: Top U.S. Trails for Adventurers]]></media:title>
+          <media:description><![CDATA[Ready to hit the trails on your own? 🌲 Explore the beauty of nature and challenge yourself with the top hiking paths across the U.S.! Don't forget, adventure awaits at every turn! #HikingSolo #NatureLovers #AdventureAwaits 🥾]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2025/01/cropped_blob-1314" />
+    </item>
     </channel>
 </rss>
