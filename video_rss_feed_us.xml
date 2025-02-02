@@ -385,5 +385,17 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA[Ready to explore nature's beauty? 🌼 Discover eight breathtaking garden getaways that will leave you in awe! From vibrant colors to peaceful vibes, it's the perfect way to reconnect with the great outdoors. #GardenGetaways #NatureLovers #InFullBloom]]></media:description>
       </media:content>
     </item>
+    <item>
+      <title><![CDATA[Historic U.S. Towns to Explore During the Holidays]]></title>
+      <link>https://www.dropbox.com/scl/fi/6kee3i8k6xrngulydd15b/video-245-Historic-U.S.-Towns-to-Explore-During-the-Holidays.mp4?rlkey=dwrd60eezebjy1ss94och5o34&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">2d297cb5-e8d0-e886-cd3b-2eafdc20eade</guid>
+      <pubDate>Sun, 02 Feb 2025 15:37:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Discover the charm of historic U.S. towns this holiday season! 🎄 Wander through festive streets and embrace the spirit of the season in timeless places. Make memories that will last a lifetime! #HolidayTravel #HistoricTowns #ExploreMore]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/6kee3i8k6xrngulydd15b/video-245-Historic-U.S.-Towns-to-Explore-During-the-Holidays.mp4?rlkey=dwrd60eezebjy1ss94och5o34&amp;dl=1" medium="video">
+          <media:title><![CDATA[Historic U.S. Towns to Explore During the Holidays]]></media:title>
+          <media:description><![CDATA[Discover the charm of historic U.S. towns this holiday season! 🎄 Wander through festive streets and embrace the spirit of the season in timeless places. Make memories that will last a lifetime! #HolidayTravel #HistoricTowns #ExploreMore]]></media:description>
+      </media:content>
+    </item>
     </channel>
 </rss>
