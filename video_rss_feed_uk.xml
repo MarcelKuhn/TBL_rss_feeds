@@ -335,5 +335,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2025/01/cropped_50030480246_fb1da35d8a_o-scaled-1.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Famous People’s Favorite Places Before They Died]]></title>
+      <link>https://www.dropbox.com/scl/fi/7i3mhkv6nx3yktwwln3sj/video-029-Top-10-Famous-People-s-Favorite-Places-Before-They-Died.mp4?rlkey=2c1tnchkzah6luleu6s4dmwd8&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">59908423-329c-f35d-ac9e-ebb28245be2f</guid>
+      <pubDate>Sun, 02 Feb 2025 13:06:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Discover the hidden gems where iconic figures found solace before their time. 🌍✨ Join me as we explore the heartfelt connections between fame and the places that inspired them. You won't believe their top choices! #FamousLastPlaces #IconicFigures #TravelInspiration]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/7i3mhkv6nx3yktwwln3sj/video-029-Top-10-Famous-People-s-Favorite-Places-Before-They-Died.mp4?rlkey=2c1tnchkzah6luleu6s4dmwd8&amp;dl=1" medium="video">
+          <media:title><![CDATA[Famous People’s Favorite Places Before They Died]]></media:title>
+          <media:description><![CDATA[Discover the hidden gems where iconic figures found solace before their time. 🌍✨ Join me as we explore the heartfelt connections between fame and the places that inspired them. You won't believe their top choices! #FamousLastPlaces #IconicFigures #TravelInspiration]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://travelbucketlist.xyz/wp-content/uploads/2025/01/cropped_g098c6341c1c27516e732d6f7b40a5c8dbb940cfc41902393e522813c1ac5ab9847e6254f3296588f0c29e0251c2fb9ea5a94197e315ec387b2a4a00c140a73f5_1280.jpg" />
+    </item>
     </channel>
 </rss>
