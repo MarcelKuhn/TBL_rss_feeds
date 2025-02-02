@@ -373,5 +373,17 @@ xmlns:dcterms="http://purl.org/dc/terms/">
           <media:description><![CDATA["Embracing new horizons can be a comforting way to cope with grief. Traveling allows us to create beautiful memories while honoring those we've lost. 🌍✨ Join me on this journey of healing and discovery. #HealingThroughTravel #JourneyOfGrief"]]></media:description>
       </media:content>
     </item>
+    <item>
+      <title><![CDATA[8 Incredible Garden Getaways to See in Full Bloom]]></title>
+      <link>https://www.dropbox.com/scl/fi/c8vwp5sl35akakijms1w2/video-271-8-Incredible-Garden-Getaways-to-See-in-Full-Bloom.mp4?rlkey=nf0x87f717qowz6b1yhgfj91y&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">ab9f5331-48fc-2e3a-3ecf-fe68ff860442</guid>
+      <pubDate>Sun, 02 Feb 2025 14:28:00 GMT</pubDate>
+      <dc:creator><![CDATA[Ethan Walker, M.Sc.]]></dc:creator>
+      <description><![CDATA[Ready to explore nature's beauty? 🌼 Discover eight breathtaking garden getaways that will leave you in awe! From vibrant colors to peaceful vibes, it's the perfect way to reconnect with the great outdoors. #GardenGetaways #NatureLovers #InFullBloom]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/c8vwp5sl35akakijms1w2/video-271-8-Incredible-Garden-Getaways-to-See-in-Full-Bloom.mp4?rlkey=nf0x87f717qowz6b1yhgfj91y&amp;dl=1" medium="video">
+          <media:title><![CDATA[8 Incredible Garden Getaways to See in Full Bloom]]></media:title>
+          <media:description><![CDATA[Ready to explore nature's beauty? 🌼 Discover eight breathtaking garden getaways that will leave you in awe! From vibrant colors to peaceful vibes, it's the perfect way to reconnect with the great outdoors. #GardenGetaways #NatureLovers #InFullBloom]]></media:description>
+      </media:content>
+    </item>
     </channel>
 </rss>
